@@ -1,0 +1,15 @@
+{
+    "name": "xy718-java-extension-pack",
+    "displayName": "Xy718 Java Extension Pack",
+    "description": "test-desc",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
